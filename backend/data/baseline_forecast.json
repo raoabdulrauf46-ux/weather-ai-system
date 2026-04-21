@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2026-02-28",
+    "temp_max_c": 25.4,
+    "temp_min_c": 10.7,
+    "humidity_avg": 46,
+    "pressure_avg_hpa": 951.6
+  },
+  {
+    "date": "2026-03-01",
+    "temp_max_c": 26.0,
+    "temp_min_c": 12.8,
+    "humidity_avg": 40,
+    "pressure_avg_hpa": 952.9
+  },
+  {
+    "date": "2026-03-02",
+    "temp_max_c": 27.2,
+    "temp_min_c": 11.3,
+    "humidity_avg": 32,
+    "pressure_avg_hpa": 954.9
+  },
+  {
+    "date": "2026-03-03",
+    "temp_max_c": 28.1,
+    "temp_min_c": 11.5,
+    "humidity_avg": 30,
+    "pressure_avg_hpa": 954.6
+  },
+  {
+    "date": "2026-03-04",
+    "temp_max_c": 27.4,
+    "temp_min_c": 15.6,
+    "humidity_avg": 44,
+    "pressure_avg_hpa": 955.7
+  },
+  {
+    "date": "2026-03-05",
+    "temp_max_c": 30.3,
+    "temp_min_c": 15.1,
+    "humidity_avg": 46,
+    "pressure_avg_hpa": 952.9
+  },
+  {
+    "date": "2026-03-06",
+    "temp_max_c": 31.0,
+    "temp_min_c": 16.9,
+    "humidity_avg": 46,
+    "pressure_avg_hpa": 952.6
+  },
+  {
+    "date": "2026-03-07",
+    "temp_max_c": 29.5,
+    "temp_min_c": 17.4,
+    "humidity_avg": 40,
+    "pressure_avg_hpa": 951.0
+  },
+  {
+    "date": "2026-03-08",
+    "temp_max_c": 32.6,
+    "temp_min_c": 18.6,
+    "humidity_avg": 27,
+    "pressure_avg_hpa": 949.8
+  },
+  {
+    "date": "2026-03-09",
+    "temp_max_c": 32.0,
+    "temp_min_c": 18.5,
+    "humidity_avg": 23,
+    "pressure_avg_hpa": 950.1
+  },
+  {
+    "date": "2026-03-10",
+    "temp_max_c": 32.6,
+    "temp_min_c": 19.2,
+    "humidity_avg": 16,
+    "pressure_avg_hpa": 950.3
+  },
+  {
+    "date": "2026-03-11",
+    "temp_max_c": 32.2,
+    "temp_min_c": 19.0,
+    "humidity_avg": 16,
+    "pressure_avg_hpa": 949.6
+  },
+  {
+    "date": "2026-03-12",
+    "temp_max_c": 31.2,
+    "temp_min_c": 19.3,
+    "humidity_avg": 20,
+    "pressure_avg_hpa": 945.9
+  },
+  {
+    "date": "2026-03-13",
+    "temp_max_c": 28.5,
+    "temp_min_c": 15.7,
+    "humidity_avg": 15,
+    "pressure_avg_hpa": 946.3
+  },
+  {
+    "date": "2026-03-14",
+    "temp_max_c": 29.1,
+    "temp_min_c": 15.8,
+    "humidity_avg": 13,
+    "pressure_avg_hpa": 947.6
+  },
+  {
+    "date": "2026-03-15",
+    "temp_max_c": 30.0,
+    "temp_min_c": 16.2,
+    "humidity_avg": 14,
+    "pressure_avg_hpa": 946.7
+  }
+]
